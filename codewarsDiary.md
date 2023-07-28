@@ -1,7 +1,10 @@
 # Codewars
 Diary to keep track of Codewars and solutions:
 
+## 28/07/23
 
+- Removing Elements: 8 kyu
+  - I tried to make this one more complicated than it needed to be! 
 
 ## 27/07/23
 - Finding the next perfect square: 7 kyu
