@@ -2,13 +2,18 @@
 
 Diary to keep track of Codewars and solutions:
 
+## 04/08/23
+
+- Transportation on Vacation: 8 kyu
+  - Easy forumla this time
+
 ## 03/08/23
 
-- Find the first non-consecutive number
+- Find the first non-consecutive number: 8 kyu
   - I think some sneaky brackets slowed me down 🙄.
-- Reversed Sequence
+- Reversed Sequence: 8 kyu
   - While loop, kept decreasing n by 1 and pushing to a new array.
-- Detect Pangram
+- Detect Pangram: 6 kyu
   - Used .every to check each item in the array is included in the string.
 
 ## 28/07/23
