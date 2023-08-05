@@ -2,6 +2,12 @@
 
 Diary to keep track of Codewars and solutions:
 
+## 05/08/23
+
+- Printer Errors: 7 kyu
+  - Used regex to check for the incorrect characters
+  - Haven't used .test before [w3schools on .test](https://www.w3schools.com/jsref/jsref_regexp_test.asp)
+
 ## 04/08/23
 
 - Transportation on Vacation: 8 kyu
