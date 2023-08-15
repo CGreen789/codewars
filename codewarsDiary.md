@@ -2,6 +2,15 @@
 
 Diary to keep track of Codewars and solutions:
 
+## 15/08/23
+
+- Find the odd int: 6 kyu
+  - Used forEach to create an object to count the number of occurences of each number in an array
+  - Turned the object into an array using Object.keys(object)
+  - Used forEach((key, index) => if...) to check which key had an odd number
+  - assigned the integer appearing an odd amount of times to a variable (which was originally null)
+  - returned +answer to turn it back to a number
+
 ## 05/08/23
 
 - Printer Errors: 7 kyu
