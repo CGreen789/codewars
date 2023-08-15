@@ -10,7 +10,9 @@ Diary to keep track of Codewars and solutions:
   - Used forEach((key, index) => if...) to check which key had an odd number
   - assigned the integer appearing an odd amount of times to a variable (which was originally null)
   - returned +answer to turn it back to a number
-
+- Find the smallest integer: 8 kyu
+  - .sort((a, b) => a - b) to organise the array
+  - Looking at other solutions, could have used Math.min(...args) to find the lowest.
 ## 05/08/23
 
 - Printer Errors: 7 kyu
