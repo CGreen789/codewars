@@ -2,6 +2,12 @@
 
 Diary to keep track of Codewars and solutions:
 
+## 30/08/23
+
+Wonderful couple of weeks off with my two boys! Back to it...
+- Simple Fun #10: Range Bit Counting: 7kyu
+  - Enjoyed this first one back. Got a plan in place, had to remind myself how to convert to binary (toString(2))
+  - Also used .flat() to remove the nested arrays I had created. Most of the other solutions are much more succinct than mine!
 ## 15/08/23
 
 - Find the odd int: 6 kyu
